@@ -1,4 +1,4 @@
-# komikcast
+# Komikcast ID
 
 Need To Install
 - pip3 install bs4
