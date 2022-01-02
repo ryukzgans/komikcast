@@ -1,6 +1,6 @@
 # Komikcast ID
 
-<p align="center">
+<p>
   <img src="images/search.jpg"><br>
   <img src="images/desc.jpg">
 </p>
