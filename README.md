@@ -5,14 +5,14 @@
   <img src="images/desc.jpg">
 </p>
 
-# Need to install
+## Need to install
 ```
 pip3 install bs4
 pip3 install requests
 pip3 install lxml
 ```
 
-# Run program
+## Run program
 ```
 python3 komikcast.py
 ```
